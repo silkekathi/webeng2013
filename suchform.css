@@ -1,0 +1,28 @@
+fieldset {
+    font-family: sans-serif;
+}
+
+
+fieldset { 
+	border: 2px solid #C5D8E1; 
+	border-radius: 6px; 
+	background: white; 
+	width: 620px; 
+	margin: auto; 
+}
+
+form { 
+	background: #E4F1F9; 
+	height: 120px;
+} 
+
+h1 { 
+	color: rgb(30,30,30); 
+	margin: 9px 0; 
+}
+
+input { 
+	font-size: 18px; 
+	border-radius: 6px; 
+	padding: 2px; 
+}
